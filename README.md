@@ -22,9 +22,7 @@
     <br>
     「 A Computer Science & Engineering student from <b>NIT Andhra Pradesh</b> 」
     <br>
-    「Passionate about AI & Full-Stack Development」
-    「Exploring Generative AI, LLMs & Big Data」
-    <br>
+    「 Often referred to as a <b>Jack of All Trades, Master of Some</b> 」
   </samp>
 </p>
 
@@ -45,12 +43,13 @@
 # About Me
  
 <p>
- <img align="right" width="250" src="https://github.com/SOHAM-3T.png" alt="Soham's Profile Photo" />
+ <img align="right" width="250" src="profile.jpg" alt="Soham's Profile Photo" />
   
  ✌️ &emsp; Love solving problems & building projects <br/><br/>
- ❤️ &emsp; Passionate about **Databases, Algorithms, and AI** <br/><br/>
- 📧 &emsp; Reach me anytime: **soham4net@gmail.com** <br/><br/>
- 💬 &emsp; Ask me about **Django, PostgreSQL, AI Projects, Hackathons**
+ ❤️ &emsp; Passionate about <b>AI and Full Stack Development</b> <br/><br/>
+ 🚀 &emsp; Exploring <b>Generative AI, LLMs & Big Data</b> <br/><br/>
+ 📧 &emsp; Reach me anytime: <b>soham4net@gmail.com</b> <br/><br/>
+ 💬 &emsp; Ask me about <b>Django, PostgreSQL, AI Projects, Hackathons</b>
 </p>
 
 
