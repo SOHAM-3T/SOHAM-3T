@@ -43,7 +43,7 @@
 # About Me
  
 <p>
- <img align="right" width="250" src="profile.jpg" alt="Soham's Profile Photo" />
+ <img align="right" width="250" src="profile.png" alt="Soham's Profile Photo" />
   
  ✌️ &emsp; Love solving problems & building projects <br/><br/>
  ❤️ &emsp; Passionate about <b>AI and Full Stack Development</b> <br/><br/>
