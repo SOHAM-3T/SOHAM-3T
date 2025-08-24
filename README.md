@@ -1,7 +1,7 @@
 <!--
 <h2 align="center">
   Welcome to Soham's World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img align="right" alt="Soham Tripathy" width="400" src="https://github.com/SohamTripathy1.png">
 </h2>
 -->
 
@@ -44,13 +44,14 @@
 # About Me
  
 <p>
- <img align="right" width="350" src="https://raw.githubusercontent.com/SOHAM-3T/SOHAM-3T/main/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="250" src="https://github.com/SOHAM-3T.png" alt="Soham's Profile Photo" />
   
  ✌️ &emsp; Love solving problems & building projects <br/><br/>
  ❤️ &emsp; Passionate about **Databases, Algorithms, and AI** <br/><br/>
  📧 &emsp; Reach me anytime: **soham4net@gmail.com** <br/><br/>
  💬 &emsp; Ask me about **Django, PostgreSQL, AI Projects, Hackathons**
 </p>
+
 
 <br/><br/><br/>
 
