@@ -22,7 +22,8 @@
     <br>
     「 A Computer Science & Engineering student from <b>NIT Andhra Pradesh</b> 」
     <br>
-    「Passionate about Algorithms, Databases & Full-Stack Development」
+    「Passionate about AI & Full-Stack Development」
+    「Exploring Generative AI, LLMs & Big Data」
     <br>
   </samp>
 </p>
