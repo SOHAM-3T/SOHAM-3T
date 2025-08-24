@@ -52,7 +52,6 @@
  💬 &emsp; Ask me about <b>Django, PostgreSQL, AI Projects, Hackathons</b>
 </p>
 
-
 <br><br><br/><br/>
 
 ## 🚀 Tech Stack  
@@ -74,7 +73,7 @@
 
 ### 🤖 AI / ML  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
@@ -82,7 +81,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-
 
 ## 📌 Featured Projects
 
@@ -119,4 +117,3 @@
 </a>
 
 ![Soham's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SOHAM-3T&custom_title=Soham%20Tripathy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
