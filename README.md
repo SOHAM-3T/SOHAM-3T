@@ -1,7 +1,7 @@
 <!--
 <h2 align="center">
   Welcome to Soham's World!
-  <img align="right" alt="Soham Tripathy" width="400" src="https://github.com/SohamTripathy1.png">
+  <img align="right" alt="Soham Tripathy" width="400" src="https://github.com/SohamTripathy1.png ">
 </h2>
 -->
 
