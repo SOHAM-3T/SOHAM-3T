@@ -85,10 +85,12 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/SOHAM-3T/SAHAY_AI" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=SAHAY_AI&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
+    <img align="left" width="47%" style="border: 2px solid #7F3FBF; border-radius: 8px;" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=SAHAY_AI&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/SOHAM-3T/LMS" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=LMS&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
+    <img align="right" width="47%" style="border: 2px solid #7F3FBF; border-radius: 8px;" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=LMS&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
   </a>
 </div>
 
@@ -96,12 +98,15 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/SOHAM-3T/Medical-Prescription-Analyzer-" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=Medical-Prescription-Analyzer-&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
+    <img align="left" width="47%" style="border: 2px solid #7F3FBF; border-radius: 8px;" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=Medical-Prescription-Analyzer-&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/SOHAM-3T/AlgoArena" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=AlgoArena&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
+    <img align="right" width="47%" style="border: 2px solid #7F3FBF; border-radius: 8px;" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=AlgoArena&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
   </a>
 </div>
+
 
 <p align="left">
   <a href="https://github.com/SOHAM-3T?tab=repositories" target="_blank">
