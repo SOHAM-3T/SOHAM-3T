@@ -80,7 +80,8 @@
 
 
 <!-- About Section -->
-# About Me
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" /> About Me
+
  
 <p>
  <img align="right" width="250" src="https://github.com/SOHAM-3T.png" alt="Soham's Profile Photo" />
