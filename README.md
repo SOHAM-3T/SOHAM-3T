@@ -103,20 +103,20 @@
 
 <p align="center">
   <a href="https://github.com/SOHAM-3T">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOHAM-3T&theme=radical&border=7F3FBF&background=0D1117" alt="Soham's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOHAM-3T&theme=radical&border=7F3FBF&background=0D1117&cache_seconds=1800" alt="Soham's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SOHAM-3T">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOHAM-3T&theme=radical" alt="Soham's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOHAM-3T&theme=radical&cache_seconds=1800" alt="Soham's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/SOHAM-3T"><img alt="Soham's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SOHAM-3T&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/SOHAM-3T"><img alt="Soham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-3T&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/SOHAM-3T"><img alt="Soham's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SOHAM-3T&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/SOHAM-3T"><img alt="Soham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-3T&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Soham's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SOHAM-3T&custom_title=Soham%20Tripathy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Soham's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SOHAM-3T&custom_title=Soham%20Tripathy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&cache_seconds=1800)
