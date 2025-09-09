@@ -26,18 +26,58 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://linkedin.com/in/sohamtripathy" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
- </a>
- <a href="mailto:soham4net@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
- </a>
- <a href="https://github.com/SOHAM-3T" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
- </a> 
+<!-- Social Links (Centered) -->
+<p align="center"> 
+  <!-- GitHub -->
+  <a href="https://www.github.com/SOHAM-3T" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+    </picture>
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://www.x.com/soham4net" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
+    </picture>
+  </a>
+
+  <!-- Threads -->
+  <a href="https://www.threads.net/@soham_tripathy_7" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" />
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sohamtripathy/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
+
+  <!-- Mail -->
+  <a href="mailto:soham4net@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/new-post.png" width="40" height="40" alt="Email" />
+
+  </a>
 </p>
-<br />
+
+<!-- Followers badge (also centered) -->
+<p align="center">
+  <a href="https://www.github.com/SOHAM-3T" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/SOHAM-3T?logo=github&style=for-the-badge&color=facc15&labelColor=181824" />
+  </a>
+</p>
+
 
 <!-- About Section -->
 # About Me
