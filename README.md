@@ -88,6 +88,7 @@
 [![Sahay AI](https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=SAHAY_AI&cache_seconds=3600&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SOHAM-3T/SAHAY_AI)
 [![LMS Project](https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=LMS&cache_seconds=3600&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SOHAM-3T/LMS)
 [![AlgoArena](https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=AlgoArena&cache_seconds=3600&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SOHAM-3T/AlgoArena)
+[![Medical-Prescription-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=Medical-Prescription-Analyzer-&cache_seconds=3600&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SOHAM-3T/Medical-Prescription-Analyzer-)
 
 
 <p align="left">
