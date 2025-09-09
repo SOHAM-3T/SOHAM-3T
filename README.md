@@ -43,7 +43,7 @@
 # About Me
  
 <p>
- <img align="right" width="250" src="./profile.png" alt="Soham's Profile Photo" />
+ <img align="right" width="250" src="https://github.com/SOHAM-3T.png" alt="Soham's Profile Photo" />
   
  ✌️ &emsp; Love solving problems & building projects <br/><br/>
  ❤️ &emsp; Passionate about <b>AI and Full Stack Development</b> <br/><br/>
@@ -52,7 +52,7 @@
  💬 &emsp; Ask me about <b>Django, PostgreSQL, AI Projects, Hackathons</b>
 </p>
 
-<br><br><br/><br/>
+<br><br>
 
 ## 🚀 Tech Stack  
 
@@ -106,7 +106,7 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=SOHAM-3T&repo=AlgoArena&title_color=a855f7&text_color=ef4444&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" />
   </a>
 </div>
-
+<br><br>
 
 <p align="left">
   <a href="https://github.com/SOHAM-3T?tab=repositories" target="_blank">
